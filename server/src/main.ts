@@ -1,5 +1,6 @@
 // Load environment variables from .env file
 import "dotenv/config";
+import express from "express";
 
 // Check database connection
 // Note: This is optional and can be removed if the database connection
